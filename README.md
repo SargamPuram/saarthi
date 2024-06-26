@@ -1,13 +1,13 @@
 # saarthi
 Personalized Financial Advisor
 
-Overview
+# Overview
 The Personalized Financial Advisor project aims to develop a generative AI system that provides personalized, data-driven financial advice to customers. Leveraging machine learning techniques, the system analyzes customer financial data and market trends to generate tailored investment strategies and recommendations. The project focuses on enhancing financial decision-making, improving customer engagement, and ensuring transparency in advisory services.
 
-Prerequisites
+# Prerequisites
 Before starting, ensure you have the following prerequisites in place:
 
-Hardware:
+# Hardware:
 
 High-performance servers with multi-core processors, minimum 32 GB RAM, SSDs, and GPU support.
 Development workstations with at least 16 GB RAM and SSD storage.
